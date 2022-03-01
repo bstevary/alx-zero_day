@@ -1,10 +1,2 @@
-update_script
- update_script
-ALX School 
-
-ALX School is so cool!
- master
-
 #!/bin/bash
 echo "ALX School is so cool!"
-master
